@@ -3,3 +3,5 @@
   {
   cout<<"hello"<<endl;
   }
+int  fun()
+{}
